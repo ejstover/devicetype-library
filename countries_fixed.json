@@ -17,7 +17,7 @@
     {
         "name": "American Samoa",
         "parent": "Oceania",
-        "slug": "american samoa"
+        "slug": "american-samoa"
     },
     {
         "name": "Andorra",
@@ -42,7 +42,7 @@
     {
         "name": "Antigua and Barbuda",
         "parent": "North America",
-        "slug": "antigua and barbuda"
+        "slug": "antigua-and-barbuda"
     },
     {
         "name": "Argentina",
@@ -132,7 +132,7 @@
     {
         "name": "Bosnia and Herzegovina",
         "parent": "Europe",
-        "slug": "bosnia and herzegovina"
+        "slug": "bosnia-and-herzegovina"
     },
     {
         "name": "Botswana",
@@ -142,7 +142,7 @@
     {
         "name": "Bouvet Island",
         "parent": "Antarctica",
-        "slug": "bouvet island"
+        "slug": "bouvet-island"
     },
     {
         "name": "Brazil",
@@ -152,7 +152,7 @@
     {
         "name": "British Indian Ocean Territory",
         "parent": "Africa",
-        "slug": "british indian ocean territory"
+        "slug": "british-indian-ocean-territory"
     },
     {
         "name": "Brunei",
@@ -167,7 +167,7 @@
     {
         "name": "Burkina Faso",
         "parent": "Africa",
-        "slug": "burkina faso"
+        "slug": "burkina-faso"
     },
     {
         "name": "Burundi",
@@ -192,17 +192,17 @@
     {
         "name": "Cape Verde",
         "parent": "Africa",
-        "slug": "cape verde"
+        "slug": "cape-verde"
     },
     {
         "name": "Cayman Islands",
         "parent": "North America",
-        "slug": "cayman islands"
+        "slug": "cayman-islands"
     },
     {
         "name": "Central African Republic",
         "parent": "Africa",
-        "slug": "central african republic"
+        "slug": "central-african-republic"
     },
     {
         "name": "Chad",
@@ -222,12 +222,12 @@
     {
         "name": "Christmas Island",
         "parent": "Oceania",
-        "slug": "christmas island"
+        "slug": "christmas-island"
     },
     {
         "name": "Cocos (Keeling) Islands",
         "parent": "Oceania",
-        "slug": "cocos (keeling) islands"
+        "slug": "cocos-(keeling)-islands"
     },
     {
         "name": "Colombia",
@@ -247,12 +247,12 @@
     {
         "name": "Cook Islands",
         "parent": "Oceania",
-        "slug": "cook islands"
+        "slug": "cook-islands"
     },
     {
         "name": "Costa Rica",
         "parent": "North America",
-        "slug": "costa rica"
+        "slug": "costa-rica"
     },
     {
         "name": "Croatia",
@@ -272,7 +272,7 @@
     {
         "name": "Czech Republic",
         "parent": "Europe",
-        "slug": "czech republic"
+        "slug": "czech-republic"
     },
     {
         "name": "Denmark",
@@ -292,12 +292,12 @@
     {
         "name": "Dominican Republic",
         "parent": "North America",
-        "slug": "dominican republic"
+        "slug": "dominican-republic"
     },
     {
         "name": "East Timor",
         "parent": "Asia",
-        "slug": "east timor"
+        "slug": "east-timor"
     },
     {
         "name": "Ecuador",
@@ -312,7 +312,7 @@
     {
         "name": "El Salvador",
         "parent": "North America",
-        "slug": "el salvador"
+        "slug": "el-salvador"
     },
     {
         "name": "England",
@@ -322,7 +322,7 @@
     {
         "name": "Equatorial Guinea",
         "parent": "Africa",
-        "slug": "equatorial guinea"
+        "slug": "equatorial-guinea"
     },
     {
         "name": "Eritrea",
@@ -342,17 +342,17 @@
     {
         "name": "Falkland Islands",
         "parent": "South America",
-        "slug": "falkland islands"
+        "slug": "falkland-islands"
     },
     {
         "name": "Faroe Islands",
         "parent": "Europe",
-        "slug": "faroe islands"
+        "slug": "faroe-islands"
     },
     {
         "name": "Fiji Islands",
         "parent": "Oceania",
-        "slug": "fiji islands"
+        "slug": "fiji-islands"
     },
     {
         "name": "Finland",
@@ -367,17 +367,17 @@
     {
         "name": "French Guiana",
         "parent": "South America",
-        "slug": "french guiana"
+        "slug": "french-guiana"
     },
     {
         "name": "French Polynesia",
         "parent": "Oceania",
-        "slug": "french polynesia"
+        "slug": "french-polynesia"
     },
     {
         "name": "French Southern territories",
         "parent": "Antarctica",
-        "slug": "french southern territories"
+        "slug": "french-southern-territories"
     },
     {
         "name": "Gabon",
@@ -462,12 +462,12 @@
     {
         "name": "Heard Island and McDonald Islands",
         "parent": "Antarctica",
-        "slug": "heard island and mcdonald islands"
+        "slug": "heard-island-and-mcdonald-islands"
     },
     {
         "name": "Holy See (Vatican City State)",
         "parent": "Europe",
-        "slug": "holy see (vatican city state)"
+        "slug": "holy-see-(vatican-city-state)"
     },
     {
         "name": "Honduras",
@@ -477,7 +477,7 @@
     {
         "name": "Hong Kong",
         "parent": "Asia",
-        "slug": "hong kong"
+        "slug": "hong-kong"
     },
     {
         "name": "Hungary",
@@ -527,7 +527,7 @@
     {
         "name": "Ivory Coast",
         "parent": "Africa",
-        "slug": "ivory coast"
+        "slug": "ivory-coast"
     },
     {
         "name": "Jamaica",
@@ -597,7 +597,7 @@
     {
         "name": "Libyan Arab Jamahiriya",
         "parent": "Africa",
-        "slug": "libyan arab jamahiriya"
+        "slug": "libyan-arab-jamahiriya"
     },
     {
         "name": "Liechtenstein",
@@ -622,7 +622,7 @@
     {
         "name": "North Macedonia",
         "parent": "Europe",
-        "slug": "north macedonia"
+        "slug": "north-macedonia"
     },
     {
         "name": "Madagascar",
@@ -657,7 +657,7 @@
     {
         "name": "Marshall Islands",
         "parent": "Oceania",
-        "slug": "marshall islands"
+        "slug": "marshall-islands"
     },
     {
         "name": "Martinique",
@@ -687,7 +687,7 @@
     {
         "name": "Micronesia, Federated States of",
         "parent": "Oceania",
-        "slug": "micronesia, federated states of"
+        "slug": "micronesia,-federated-states-of"
     },
     {
         "name": "Moldova",
@@ -752,17 +752,17 @@
     {
         "name": "Netherlands Antilles",
         "parent": "North America",
-        "slug": "netherlands antilles"
+        "slug": "netherlands-antilles"
     },
     {
         "name": "New Caledonia",
         "parent": "Oceania",
-        "slug": "new caledonia"
+        "slug": "new-caledonia"
     },
     {
         "name": "New Zealand",
         "parent": "Oceania",
-        "slug": "new zealand"
+        "slug": "new-zealand"
     },
     {
         "name": "Nicaragua",
@@ -787,22 +787,22 @@
     {
         "name": "Norfolk Island",
         "parent": "Oceania",
-        "slug": "norfolk island"
+        "slug": "norfolk-island"
     },
     {
         "name": "North Korea",
         "parent": "Asia",
-        "slug": "north korea"
+        "slug": "north-korea"
     },
     {
         "name": "Northern Ireland",
         "parent": "Europe",
-        "slug": "northern ireland"
+        "slug": "northern-ireland"
     },
     {
         "name": "Northern Mariana Islands",
         "parent": "Oceania",
-        "slug": "northern mariana islands"
+        "slug": "northern-mariana-islands"
     },
     {
         "name": "Norway",
@@ -837,7 +837,7 @@
     {
         "name": "Papua New Guinea",
         "parent": "Oceania",
-        "slug": "papua new guinea"
+        "slug": "papua-new-guinea"
     },
     {
         "name": "Paraguay",
@@ -872,7 +872,7 @@
     {
         "name": "Puerto Rico",
         "parent": "North America",
-        "slug": "puerto rico"
+        "slug": "puerto-rico"
     },
     {
         "name": "Qatar",
@@ -892,7 +892,7 @@
     {
         "name": "Russian Federation",
         "parent": "Europe",
-        "slug": "russian federation"
+        "slug": "russian-federation"
     },
     {
         "name": "Rwanda",
@@ -902,27 +902,27 @@
     {
         "name": "Saint Helena",
         "parent": "Africa",
-        "slug": "saint helena"
+        "slug": "saint-helena"
     },
     {
         "name": "Saint Kitts and Nevis",
         "parent": "North America",
-        "slug": "saint kitts and nevis"
+        "slug": "saint-kitts-and-nevis"
     },
     {
         "name": "Saint Lucia",
         "parent": "North America",
-        "slug": "saint lucia"
+        "slug": "saint-lucia"
     },
     {
         "name": "Saint Pierre and Miquelon",
         "parent": "North America",
-        "slug": "saint pierre and miquelon"
+        "slug": "saint-pierre-and-miquelon"
     },
     {
         "name": "Saint Vincent and the Grenadines",
         "parent": "North America",
-        "slug": "saint vincent and the grenadines"
+        "slug": "saint-vincent-and-the-grenadines"
     },
     {
         "name": "Samoa",
@@ -932,17 +932,17 @@
     {
         "name": "San Marino",
         "parent": "Europe",
-        "slug": "san marino"
+        "slug": "san-marino"
     },
     {
         "name": "Sao Tome and Principe",
         "parent": "Africa",
-        "slug": "sao tome and principe"
+        "slug": "sao-tome-and-principe"
     },
     {
         "name": "Saudi Arabia",
         "parent": "Asia",
-        "slug": "saudi arabia"
+        "slug": "saudi-arabia"
     },
     {
         "name": "Scotland",
@@ -967,7 +967,7 @@
     {
         "name": "Sierra Leone",
         "parent": "Africa",
-        "slug": "sierra leone"
+        "slug": "sierra-leone"
     },
     {
         "name": "Singapore",
@@ -987,7 +987,7 @@
     {
         "name": "Solomon Islands",
         "parent": "Oceania",
-        "slug": "solomon islands"
+        "slug": "solomon-islands"
     },
     {
         "name": "Somalia",
@@ -997,22 +997,22 @@
     {
         "name": "South Africa",
         "parent": "Africa",
-        "slug": "south africa"
+        "slug": "south-africa"
     },
     {
         "name": "South Georgia and the South Sandwich Islands",
         "parent": "Antarctica",
-        "slug": "south georgia and the south sandwich islands"
+        "slug": "south-georgia-and-the-south-sandwich-islands"
     },
     {
         "name": "South Korea",
         "parent": "Asia",
-        "slug": "south korea"
+        "slug": "south-korea"
     },
     {
         "name": "South Sudan",
         "parent": "Africa",
-        "slug": "south sudan"
+        "slug": "south-sudan"
     },
     {
         "name": "Spain",
@@ -1022,7 +1022,7 @@
     {
         "name": "Sri Lanka",
         "parent": "Asia",
-        "slug": "sri lanka"
+        "slug": "sri-lanka"
     },
     {
         "name": "Sudan",
@@ -1037,7 +1037,7 @@
     {
         "name": "Svalbard and Jan Mayen",
         "parent": "Europe",
-        "slug": "svalbard and jan mayen"
+        "slug": "svalbard-and-jan-mayen"
     },
     {
         "name": "Swaziland",
@@ -1077,7 +1077,7 @@
     {
         "name": "The Democratic Republic of Congo",
         "parent": "Africa",
-        "slug": "the democratic republic of congo"
+        "slug": "the-democratic-republic-of-congo"
     },
     {
         "name": "Togo",
@@ -1097,7 +1097,7 @@
     {
         "name": "Trinidad and Tobago",
         "parent": "North America",
-        "slug": "trinidad and tobago"
+        "slug": "trinidad-and-tobago"
     },
     {
         "name": "Tunisia",
@@ -1117,7 +1117,7 @@
     {
         "name": "Turks and Caicos Islands",
         "parent": "North America",
-        "slug": "turks and caicos islands"
+        "slug": "turks-and-caicos-islands"
     },
     {
         "name": "Tuvalu",
@@ -1137,22 +1137,22 @@
     {
         "name": "United Arab Emirates",
         "parent": "Asia",
-        "slug": "united arab emirates"
+        "slug": "united-arab-emirates"
     },
     {
         "name": "United Kingdom",
         "parent": "Europe",
-        "slug": "united kingdom"
+        "slug": "united-kingdom"
     },
     {
         "name": "United States",
         "parent": "North America",
-        "slug": "united states"
+        "slug": "united-states"
     },
     {
         "name": "United States Minor Outlying Islands",
         "parent": "Oceania",
-        "slug": "united states minor outlying islands"
+        "slug": "united-states-minor-outlying-islands"
     },
     {
         "name": "Uruguay",
@@ -1182,12 +1182,12 @@
     {
         "name": "Virgin Islands, British",
         "parent": "North America",
-        "slug": "virgin islands, british"
+        "slug": "virgin-islands,-british"
     },
     {
         "name": "Virgin Islands, U.S.",
         "parent": "North America",
-        "slug": "virgin islands, u.s."
+        "slug": "virgin-islands,-u.s."
     },
     {
         "name": "Wales",
@@ -1197,12 +1197,12 @@
     {
         "name": "Wallis and Futuna",
         "parent": "Oceania",
-        "slug": "wallis and futuna"
+        "slug": "wallis-and-futuna"
     },
     {
         "name": "Western Sahara",
         "parent": "Africa",
-        "slug": "western sahara"
+        "slug": "western-sahara"
     },
     {
         "name": "Yemen",
