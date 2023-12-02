@@ -140,6 +140,11 @@
         "slug": "botswana"
     },
     {
+        "name": "Bouvet Island",
+        "parent": "Antarctica",
+        "slug": "bouvet-island"
+    },
+    {
         "name": "Brazil",
         "parent": "South America",
         "slug": "brazil"
@@ -222,7 +227,7 @@
     {
         "name": "Cocos (Keeling) Islands",
         "parent": "Oceania",
-        "slug": "cocos-(keeling)-islands"
+        "slug": "cocos--keeling--islands"
     },
     {
         "name": "Colombia",
@@ -462,7 +467,7 @@
     {
         "name": "Holy See (Vatican City State)",
         "parent": "Europe",
-        "slug": "holy-see-(vatican-city-state)"
+        "slug": "holy-see--vatican-city-state-"
     },
     {
         "name": "Honduras",
@@ -682,7 +687,7 @@
     {
         "name": "Micronesia, Federated States of",
         "parent": "Oceania",
-        "slug": "micronesia,-federated-states-of"
+        "slug": "micronesia--federated-states-of"
     },
     {
         "name": "Moldova",
@@ -1177,12 +1182,12 @@
     {
         "name": "Virgin Islands, British",
         "parent": "North America",
-        "slug": "virgin-islands,-british"
+        "slug": "virgin-islands--british"
     },
     {
         "name": "Virgin Islands, U.S.",
         "parent": "North America",
-        "slug": "virgin-islands,-u.s."
+        "slug": "virgin-islands--u-s-"
     },
     {
         "name": "Wales",
