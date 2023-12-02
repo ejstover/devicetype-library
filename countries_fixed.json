@@ -140,11 +140,6 @@
         "slug": "botswana"
     },
     {
-        "name": "Bouvet Island",
-        "parent": "Antarctica",
-        "slug": "bouvet-island"
-    },
-    {
         "name": "Brazil",
         "parent": "South America",
         "slug": "brazil"
